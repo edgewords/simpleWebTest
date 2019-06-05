@@ -502,6 +502,18 @@ KKADy0/uijy0/uiiigA8tP7oo8tP7ooooAdRRRQAUUUUAFFFFABRRRQAU1+tFFADa53xJ/x9Q/7n
 				</path>
 			</info>
 		</closeapprecorditem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Test Complete"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="a182d9a7-55ca-4f11-8f48-ca6c42b1a987">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="6279a336-e207-46d5-9f91-0c5b06c12767"

@@ -94,6 +94,8 @@ namespace PST_GlobParams
             Host.Current.CloseApplication(repo.EdgewordsShopECommerceDemoSiteFor.Self, new Duration(0));
             Delay.Milliseconds(0);
             
+            Report.Log(ReportLevel.Info, "User", "Test Complete", new RecordItemIndex(4));
+            
         }
 
 #region Image Feature Data
