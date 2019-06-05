@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="9.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="PST_GlobParams"
+      id="0bd54ac2-f45f-407b-b91f-d677136e9d84"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="PST_GlobParams"
+      id="0bd54ac2-f45f-407b-b91f-d677136e9d84"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
